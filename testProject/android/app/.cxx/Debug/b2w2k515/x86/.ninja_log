@@ -1,0 +1,15 @@
+# ninja log v5
+2	93	0	D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/CMakeFiles/cmake.verify_globs	2d7770d5177a0140
+49	25526	7892978799270080	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e728893607b91f404014aed5c98d70ee/react/renderer/components/safeareacontext/EventEmitters.cpp.o	b1377cc6332a45e
+2	31949	7892978863848040	CMakeFiles/appmodules.dir/OnLoad.cpp.o	22d870e4302f0690
+12	32697	7892978871604718	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/cc891c867f97bd4ac7b37943c2f02b70/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	7c4bcda443c8b99d
+32	35240	7892978896815684	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f9379a9ffa1c2e823f79bb87147a207b/jni/react/renderer/components/safeareacontext/Props.cpp.o	797ddd8520c1357
+42	37139	7892978915725920	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/fb83bc0f887d595a84b334176a950489/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	a5657e8493ed6d5c
+24	37366	7892978918092980	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/d6bb9c2efc7df44d24a70d444f571de7/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	d599df7ee2b99c3d
+31956	41803	7892978962629039	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f9379a9ffa1c2e823f79bb87147a207b/jni/react/renderer/components/safeareacontext/States.cpp.o	c20f8dad7f497949
+25549	42595	7892978970453497	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/d901127c8ac41b3f305e4f8d8e59106a/generated/source/codegen/jni/safeareacontext-generated.cpp.o	cbae5e1c5b452c66
+32725	48273	7892979027433103	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f9379a9ffa1c2e823f79bb87147a207b/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	37ca0347288ca0cb
+48281	48763	7892979031984934	D:/reactNative/_Projects/testProject/android/app/build/intermediates/cxx/Debug/b2w2k515/obj/x86/libreact_codegen_safeareacontext.so	daf6e645e317ac8f
+35241	56843	7892979112830638	CMakeFiles/appmodules.dir/D_/reactNative/_Projects/testProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	719163d452a877ba
+56844	57202	7892979116751156	D:/reactNative/_Projects/testProject/android/app/build/intermediates/cxx/Debug/b2w2k515/obj/x86/libappmodules.so	4f1bae39a27fefcb
+2	52	0	D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/CMakeFiles/cmake.verify_globs	2d7770d5177a0140

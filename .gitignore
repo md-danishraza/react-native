@@ -1,0 +1,48 @@
+# General
+*.log
+.DS_Store
+dist/
+coverage/
+*/node_modules/
+package-lock.json
+# (Keep package-lock.json if you prefer npm locking, but many teams ignore it to avoid conflicts.
+# Standard practice is usually to KEEP it, so remove the line above if you want to track versions strictly.)
+
+# React Native
+*/.expo/
+*/.metro/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*/web-build/
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# Android (relative for multiple projects)
+*/android/local.properties
+*/android/build/
+*/android/app/build/
+*/android/.gradle/
+*/android/gradle/
+*/android/captures/
+# Keystores (Never commit production keys)
+*.keystore
+!*/android/app/debug.keystore
+
+# iOS (relative for multiple projects)
+*/ios/*.mode1v3
+*/ios/*.mode2v3
+*/ios/*.moved-aside
+*/ios/*.pbxuser
+*/ios/*.perspectivev3
+*/ios/*.xcworkspace
+*/ios/Pods/
+*/ios/build/
+*/ios/DerivedData/
+
+# TypeScript
+*.tsbuildinfo

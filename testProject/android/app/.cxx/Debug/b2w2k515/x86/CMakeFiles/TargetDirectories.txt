@@ -1,0 +1,6 @@
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/CMakeFiles/appmodules.dir
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/CMakeFiles/edit_cache.dir
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/CMakeFiles/rebuild_cache.dir
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+D:/reactNative/_Projects/testProject/android/app/.cxx/Debug/b2w2k515/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
